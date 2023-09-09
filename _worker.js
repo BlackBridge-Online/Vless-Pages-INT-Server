@@ -7,7 +7,7 @@ import { connect } from 'cloudflare:sockets';
 let userID = 'bc8c8e7e-7800-435b-9e70-ae80c9ce15d2';
 
 // let proxyIP = '5.75.213.231';
-let proxyIP = 'jp-outbound.snowflare.be.eu.org';
+let proxyIP = 'sg-outbound.snowflare.be.eu.org';
 
 let dohURL = 'https://2eshny74il.cloudflare-gateway.com/dns-query'; // https://cloudflare-dns.com/dns-query or https://dns.google/dns-query
 
